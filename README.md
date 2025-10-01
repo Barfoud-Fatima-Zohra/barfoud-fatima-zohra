@@ -8,14 +8,14 @@
 
 ## 📊 GitHub Stats
 
-![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=barfoud-fatima-zohra&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barfoud-fatima-zohra&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌍 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-yellow?style=flat&logo=vercel)](#)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatima%20Zohra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fatima-zohra-barfoud/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatima%20Zohra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fatima-zohra-barfoud-6a2156241/)  
 [![Gmail](https://img.shields.io/badge/Email-fatimazohra.barfoud22%40gmail.com-red?style=flat&logo=gmail)](mailto:fatimazohra.barfoud22@gmail.com)
 
 ---
