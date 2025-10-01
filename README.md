@@ -15,7 +15,7 @@
 
 ## 🌍 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-yellow?style=flat&logo=vercel)](#)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatima%20Zohra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fatima-zohra-barfoud-6a2156241/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatima%20Zohra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fatima-zohra-barfoud-6a2156241/) 
 [![Gmail](https://img.shields.io/badge/Email-fatimazohra.barfoud22%40gmail.com-red?style=flat&logo=gmail)](mailto:fatimazohra.barfoud22@gmail.com)
 
 ---
